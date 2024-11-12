@@ -85,3 +85,19 @@ body{
 
 
 }
+@media only screen and (max-width:430px) {
+    .container {
+        width: 75%;
+    }
+    
+
+
+}
+@media only screen and (max-width:360px) {
+    .container {
+        width: 85%;
+    }
+    
+
+
+}
